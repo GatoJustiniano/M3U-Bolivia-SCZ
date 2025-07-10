@@ -1,19 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live.eu-north-1b.cf.dmcdn.net/sec2(46J2CAi_YGSroVpnWbl6IO499tZPvU-fmiJAE4WCKGNbgSZSK7jkEUeBcc2OLw4Ko7e7Svf2N6E_u5kV813irnOZUu9mFUL6VPJhacz3ntnd8s3ZnUFrBM_LyRYbkwh6)/dm/3/x9mk120/d/live-720.m3u8
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
+https://www.dailymotion.com/video/x7vsfua
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live.eu-north-1b.cf.dmcdn.net/sec2(ftCCIQFyQ65_ajfQJIa_c0TKJWO-b6BanPAgnvfjRShoMAF84pfaN5R26WC_E6VgB8QUYnWqVPbJ5TDETa08qWmpB9GeplOMWce6h7GA1e7xS5YkpSpyuHBcIytwALNg)/dm/3/x9ie7h0/d/live-720.m3u8
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
+https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(HzcGBueuwT2pUzo7On8zZ6OkaF_2GOYzy8Q0xP9vlxTrmS2fC8qKaTbK6rfiuhHLGS-3mYxv6dhEBrAMwo12_4YLOwPIBWX81mjPWdItxkAEzH75D326ojdIaUi21x8q)/dm/3/x9mk16k/d/live-720.m3u8
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/d3LzKZ6R/UNITEL-CBBA-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
+https://www.dailymotion.com/video/x7y922d
 
-#EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-b2.cf.dmcdn.net/sec2(SL4d4L-mk2sIWYUmWGyDxhmhyOUtrPOlNVFyY4wBUQdIUwUlx2sppltLU5m4K_sjzr9S1bKlegi_5cPPIN1UayJc3HtOkGKiRTqFnk1bUqRZga2cn86DusBtrffzcaFj)/cloud/3/x7wzxiw/s/live-1080.m3u8
-
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Tx7VK6BMAZ9mpm3vFPTEa7rXWtvpfEGekpZiuf2bazARdMcQdAiLC8mEwYPMn17Gbc41yRONB7whHh8Q1WyEkxl4J-Q628Wg-4yhvNBMXR5tvIRkzsgtwX5eaq6kwYvs)/dm/3/x84eirw/s/live-720.m3u8
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
+https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -132,18 +129,6 @@ https://www.dailymotion.com/video/x84eirw
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC", ATB SCZ HD
 https://www.dailymotion.com/video/x89sfvo
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
-https://www.dailymotion.com/video/x7vsfua
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
-https://www.dailymotion.com/video/x7vsezg
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/d3LzKZ6R/UNITEL-CBBA-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
-https://www.dailymotion.com/video/x7y922d
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
-https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
